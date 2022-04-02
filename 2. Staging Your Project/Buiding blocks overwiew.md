@@ -1,0 +1,4 @@
+# Reviewing the canvas
+## Go back to your canvas, review what you wrote, see if you can put more detail into any of the boxes.
+## Do you already have ideas for prototypes? Document your drafts! Taking pictures of drawings is a great way to do it.
+
