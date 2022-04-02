@@ -23,6 +23,7 @@ Faced with the shortage of certain medical equipment and devices, makers,
 manufacturers, services and players in the 3D printing sector have mobilized to
 3D print respirators, protective visors, swabs and connected devices to facilitate
 medical teleconsultations.In line with this new paradigm, we propose to design.
+![](https://github.com/jafsia/Local-manufacturing-of-open-source-devices-/blob/main/2.%20Staging%20Your%20Project/Drawing_OHM.jpg)
 
 an __open-source wireless 3D printed Digital Stethoscope__. 
 ## List of Materials 
