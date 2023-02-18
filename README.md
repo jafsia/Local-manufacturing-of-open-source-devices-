@@ -23,21 +23,16 @@ Faced with the shortage of certain medical equipment and devices, makers,
 manufacturers, services and players in the 3D printing sector have mobilized to
 3D print respirators, protective visors, swabs and connected devices to facilitate
 medical teleconsultations.In line with this new paradigm, we propose to designan __open-source wireless 3D printed Digital Stethoscope__.  
-![](https://github.com/jafsia/Local-manufacturing-of-open-source-devices-/blob/main/2.%20Staging%20Your%20Project/Drawing_OHM.jpg)
 
 
 ## List of Materials 
 - Arduino uno
--  Lm393 module
+-  Lm 393 module
 -  Bluetooth module
 -  Connecting wires
 -  Android Phone 
 -  Omnidirectionnal Microphone Controller
--  TRRS Microphone Cable
--  Lightning Headphone Jack Adapter
--  CTIA OMTP Converter
 -  Bluetooth airpods
 -  PLA filaments
 
 
-You can reach me through my regular Email: jafsiaelisee@gmail.com
